@@ -1,0 +1,11 @@
+{
+  "name": "test-kt",
+  "version": "1.0.0",
+  "description": "Testing KT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "vvo0002",
+  "license": "ISC"
+}
